@@ -283,11 +283,11 @@ Exercícios e projetos para praticar lógica e fundamentos de JavaScript.
 <img src="https://img.shields.io/badge/GITHUB-ff69b4?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="SEU_LINKEDIN_AQUI">
+<a href="https://www.linkedin.com/in/isabela-miralhas-705015424/">
 <img src="https://img.shields.io/badge/LINKEDIN-ff1493?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:SEU_EMAIL_AQUI">
+<a href="mailto: Bela.miralhas@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-c084fc?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
