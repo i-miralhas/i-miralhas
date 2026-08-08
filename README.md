@@ -1,118 +1,176 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:7B2FFF&height=220&section=header&text=SYSTEM%20ONLINE&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ISABELA%20MIRALHAS%20%7C%20DEVELOPER%20IN%20TRAINING&descAlignY=60&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,50:ff69b4,100:c084fc&height=220&section=header&text=ISABELA%20MIRALHAS&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=SYSTEM%20ONLINE%20%E2%80%A2%20DEVELOPER%20IN%20TRAINING&descAlignY=62&descSize=17" width="100%">
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=0072FF&center=true&vCenter=true&width=700&lines=Initializing+system...;Developer+in+training;Learning+JavaScript;Building+my+first+projects;Welcome+to+my+GitHub+%F0%9F%92%BB" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&width=650&lines=SYSTEM+BOOTING...;INITIALIZING+ISABELA+CORE...;DEVELOPER+IN+TRAINING;LEARNING+%7C+BUILDING+%7C+EVOLVING;WELCOME+TO+MY+GITHUB+%F0%9F%92%97" alt="Typing Animation">
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=i-miralhas&label=PROFILE%20VIEWS&color=0072FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=i-miralhas&label=PROFILE%20VIEWS&color=ff69b4&style=for-the-badge">
 
 </div>
 
 ---
 
-## `> ABOUT.ME`
-
-<table>
-<tr>
-<td width="55%">
-
-### 👩🏻‍💻 Olá, eu sou Isabela!
-
-Sou estudante de **Desenvolvimento de Sistemas** e estou começando minha jornada na programação.
-
-Atualmente estou aprendendo principalmente **HTML e JavaScript**, praticando lógica de programação e criando meus primeiros projetos.
+<div align="center">
 
 ```text
-╭────────────────────────────────────────────╮
-│              USER PROFILE                  │
-├────────────────────────────────────────────┤
-│ 👤 Name      : Isabela Miralhas             │
-│ 💻 Role      : Developer in Training        │
-│ 🎓 Study     : Systems Development          │
-│ ⚡ Status    : Learning                     │
-│ 🚀 Mission   : Learn & Build                │
-╰────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────╮
+│                    ISABELA CORE v1.0                       │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  > Initializing system...                                  │
+│                                                            │
+│  [████████████████████████████████████████] 100%           │
+│                                                            │
+│  ✓ Developer module loaded                                 │
+│  ✓ Creativity engine online                                │
+│  ✓ Learning module enabled                                 │
+│  ✓ GitHub connection established                           │
+│  ✓ Projects module loaded                                  │
+│                                                            │
+│  STATUS  : ONLINE                                          │
+│  MODE    : LEARNING                                        │
+│  MISSION : BUILD & EVOLVE                                  │
+│                                                            │
+│  > System ready.                                           │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 ```
 
-</td>
+</div>
 
-<td width="45%" align="center">
+<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=i-miralhas&bg_color=ffffff&color=0072ff&line=00a8ff&point=7b2fff&area=true&hide_border=true" width="100%"/>
+<div align="center">
 
-</td>
-</tr>
-</table>
+## 🌸 `ABOUT ME`
+
+</div>
+
+<div align="center">
+
+```javascript
+const isabela = {
+
+    name: "Isabela Miralhas",
+
+    role: "Developer in Training",
+
+    education: "Systems Development",
+
+    status: "Learning & Building",
+
+    interests: [
+        "Programming",
+        "Web Development",
+        "JavaScript",
+        "Technology"
+    ],
+
+    currentlyLearning: [
+        "HTML",
+        "JavaScript",
+        "Programming Logic"
+    ],
+
+    goal: "Turn ideas into projects and keep evolving."
+
+};
+```
+
+### ✦ Learning. Creating. Evolving. ✦
+
+</div>
 
 ---
 
-## `> CURRENT.TECH`
+<div align="center">
 
-### 💻 Linguagens & Tecnologias
+## 💻 `TECH STACK`
 
-<p align="center">
+### LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=html,js&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,js&theme=dark">
 
-</p>
+<br><br>
 
-### 🔧 Ferramentas
+### TOOLS
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=light" />
-
-</p>
-
-> 📚 **Em aprendizado:** lógica de programação, JavaScript e desenvolvimento web.
+</div>
 
 ---
 
-## `> PROJECTS`
+<div align="center">
+
+## 🧠 `CURRENT LEARNING`
+
+```text
+╭────────────────────────────────────────────────────────╮
+│                  LEARNING PROTOCOL                     │
+├────────────────────────────────────────────────────────┤
+│                                                        │
+│  [██████████████████░░] HTML                           │
+│  [██████████████░░░░░░] JavaScript                     │
+│  [████████████░░░░░░░░] Programming Logic              │
+│  [██████████░░░░░░░░░░] Web Development                │
+│                                                        │
+╰────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 `PROJECTS`
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### 🌐 Projeto HTML
+### 🌐 HTML PROJECT
 
-<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-0072FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING-FF69B4?style=for-the-badge&labelColor=0D1117">
 
-Um dos meus projetos de estudo para praticar **HTML** e aprender a estruturar páginas web.
+<br><br>
 
-**Tecnologia**
+Projeto desenvolvido durante meus estudos para praticar estruturação de páginas utilizando HTML.
+
+<br><br>
 
 `HTML`
 
-<br>
+<br><br>
 
 <a href="https://github.com/i-miralhas">
-<img src="https://img.shields.io/badge/MY%20GITHUB-0072FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20GITHUB-FF69B4?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### ⚡ JavaScript
+### ⚡ JAVASCRIPT
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING-7B2FFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING-FF1493?style=for-the-badge&labelColor=0D1117">
 
-Exercícios e pequenos projetos desenvolvidos para praticar **JavaScript**, arrays, loops e lógica de programação.
+<br><br>
 
-**Tecnologia**
+Exercícios e projetos para desenvolver lógica de programação, arrays, loops e fundamentos de JavaScript.
+
+<br><br>
 
 `JavaScript`
 
-<br>
+<br><br>
 
 <a href="https://github.com/i-miralhas">
-<img src="https://img.shields.io/badge/MY%20GITHUB-7B2FFF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20GITHUB-FF1493?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -120,111 +178,120 @@ Exercícios e pequenos projetos desenvolvidos para praticar **JavaScript**, arra
 </tr>
 </table>
 
+</div>
+
 ---
 
-## `> CURRENT.MISSION`
+<div align="center">
+
+## 🎯 `CURRENT MISSION`
 
 ```console
-╭────────────────────────────────────────────────────╮
-│                  ISABELA TERMINAL                  │
-╰────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────╮
+│                    MISSION CONTROL                     │
+╰────────────────────────────────────────────────────────╯
 
-$ boot --current-goals
+$ current_goals
 
 [✓] Aprender lógica de programação
 [✓] Praticar HTML
-[→] Aprender JavaScript
+[→] Evoluir em JavaScript
 [→] Criar novos projetos
-[→] Melhorar minhas habilidades de programação
+[→] Melhorar minhas habilidades
 [→] Aprender novas tecnologias
-[→] Criar meu portfólio
+[→] Construir meu portfólio
 
-$ status
+$ system_status
 
-SYSTEM STATUS : ONLINE
-LEARNING     : ACTIVE
-CREATIVE     : ACTIVE
-MISSION      : BUILD & EVOLVE
+LEARNING_MODE : ACTIVE
+CREATIVE_MODE : ACTIVE
+BUILDING_MODE : ACTIVE
+
+$ next_step
+
+Keep learning.
+Keep creating.
+Keep evolving.
 
 _
 ```
 
----
+</div>
 
-# `> GITHUB.ANALYTICS`
+---
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=i-miralhas&show_icons=true&theme=transparent&hide_border=true&title_color=0072FF&icon_color=7B2FFF&text_color=444444&rank_icon=github"/>
+## 📊 `GITHUB ANALYTICS`
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-miralhas&layout=compact&theme=transparent&hide_border=true&title_color=0072FF&text_color=444444"/>
+<img src="https://github-readme-stats.vercel.app/api?username=i-miralhas&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF1493&text_color=FFFFFF&rank_icon=github" height="180">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-miralhas&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF" height="180">
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=i-miralhas&theme=transparent&hide_border=true&ring=0072FF&fire=7B2FFF&currStreakLabel=0072FF&sideLabels=444444&dates=777777" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=i-miralhas&theme=dark&hide_border=true&background=0D1117&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4&sideLabels=FFFFFF&dates=AAAAAA" width="70%">
 
 </div>
 
 ---
 
-## `> ACTIVITY.MONITOR`
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=i-miralhas&bg_color=ffffff&color=0072FF&line=00A8FF&point=7B2FFF&area_color=EAF7FF&area=true&hide_border=true&custom_title=CODING%20ACTIVITY" width="95%"/>
+## 📈 `ACTIVITY MONITOR`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=i-miralhas&bg_color=0D1117&color=FF69B4&line=FF1493&point=FFFFFF&area=true&hide_border=true&custom_title=ISABELA%27S%20CODING%20ACTIVITY" width="95%">
 
 </div>
 
 ---
 
-## `> ACHIEVEMENTS`
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=i-miralhas&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="95%"/>
+## 🏆 `ACHIEVEMENTS`
+
+<img src="https://github-profile-trophy.vercel.app/?username=i-miralhas&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="95%">
 
 </div>
 
 ---
 
-## `> CONTRIBUTION.PROTOCOL`
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/i-miralhas/i-miralhas/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation"/>
+## 🐍 `CONTRIBUTION PROTOCOL`
+
+<img src="https://raw.githubusercontent.com/i-miralhas/i-miralhas/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake">
 
 </div>
 
 ---
 
-## `> NETWORK`
-
 <div align="center">
+
+## 🌐 `NETWORK`
 
 <a href="https://github.com/i-miralhas">
-<img src="https://img.shields.io/badge/GitHub-0072FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-FF69B4?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-00A8FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LINKEDIN-FF1493?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-7B2FFF?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-C084FC?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### `SYSTEM MESSAGE`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=0072FF&center=true&vCenter=true&width=650&lines=Learning+one+line+of+code+at+a+time.;Every+project+is+a+new+challenge.;Keep+learning.+Keep+building.+%E2%9A%A1" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFF,50:0072FF,100:00C6FF&height=100&section=footer" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=FF69B4&center=true&vCenter=true&width=650&lines=Every+line+of+code+is+a+step+forward.;Learning+today.+Building+tomorrow.;The+system+is+always+evolving.;%3C%2F%3E+Keep+coding." alt="System Message">
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,50:ff69b4,100:c084fc&height=120&section=footer" width="100%">
 
 </div>
+```
+
+Esse é **um único código completo** para você copiar e colar no `README.md` do seu perfil `i-miralhas`. 💗
+
