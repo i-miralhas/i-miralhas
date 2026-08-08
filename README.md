@@ -1,85 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,50:ff69b4,100:c084fc&height=220&section=header&text=ISABELA%20MIRALHAS&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=SYSTEM%20ONLINE%20%E2%80%A2%20DEVELOPER%20IN%20TRAINING&descAlignY=62&descSize=17" width="100%">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&width=650&lines=SYSTEM+BOOTING...;INITIALIZING+ISABELA+CORE...;DEVELOPER+IN+TRAINING;LEARNING+%7C+BUILDING+%7C+EVOLVING;WELCOME+TO+MY+GITHUB+%F0%9F%92%97" alt="Typing Animation">
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=i-miralhas&label=PROFILE%20VIEWS&color=ff69b4&style=for-the-badge">
-
-</div>
-
----
-
-<div align="center">
-
-```text
-╭────────────────────────────────────────────────────────────╮
-│                    ISABELA CORE v1.0                       │
-├────────────────────────────────────────────────────────────┤
-│                                                            │
-│  > Initializing system...                                  │
-│                                                            │
-│  [████████████████████████████████████████] 100%           │
-│                                                            │
-│  ✓ Developer module loaded                                 │
-│  ✓ Creativity engine online                                │
-│  ✓ Learning module enabled                                 │
-│  ✓ GitHub connection established                           │
-│  ✓ Projects module loaded                                  │
-│                                                            │
-│  STATUS  : ONLINE                                          │
-│  MODE    : LEARNING                                        │
-│  MISSION : BUILD & EVOLVE                                  │
-│                                                            │
-│  > System ready.                                           │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-```
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,50:ff69b4,100:c084fc&height=230&section=header&text=ISABELA%20MIRALHAS&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=DEVELOPER%20IN%20TRAINING%20%E2%80%A2%20SYSTEM%20ONLINE&descAlignY=63&descSize=17" width="100%">
 
 <br>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&width=650&lines=SYSTEM+ONLINE+%E2%9C%A6;WELCOME+TO+MY+PROFILE;DEVELOPER+IN+TRAINING;LEARNING+%E2%80%A2+BUILDING+%E2%80%A2+EVOLVING" alt="Typing Animation">
 
-## 🌸 `ABOUT ME`
+<br><br>
 
-</div>
+<a href="https://github.com/i-miralhas">
+<img src="https://img.shields.io/badge/GITHUB-i--miralhas-ff69b4?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-<div align="center">
-
-```javascript
-const isabela = {
-
-    name: "Isabela Miralhas",
-
-    role: "Developer in Training",
-
-    education: "Systems Development",
-
-    status: "Learning & Building",
-
-    interests: [
-        "Programming",
-        "Web Development",
-        "JavaScript",
-        "Technology"
-    ],
-
-    currentlyLearning: [
-        "HTML",
-        "JavaScript",
-        "Programming Logic"
-    ],
-
-    goal: "Turn ideas into projects and keep evolving."
-
-};
-```
-
-### ✦ Learning. Creating. Evolving. ✦
+<img src="https://komarev.com/ghpvc/?username=i-miralhas&label=PROFILE%20VIEWS&color=ff1493&style=for-the-badge">
 
 </div>
 
@@ -87,38 +20,111 @@ const isabela = {
 
 <div align="center">
 
-## 💻 `TECH STACK`
+## ✦ ABOUT ME ✦
 
-### LANGUAGES
+</div>
+
+<table>
+<tr>
+<td width="55%" valign="middle">
+
+### 👋 Olá, eu sou a Isabela!
+
+Sou estudante de **Desenvolvimento de Sistemas** e estou construindo minha jornada na programação.
+
+Atualmente estou estudando **HTML, JavaScript e lógica de programação**, criando projetos e praticando cada vez mais.
+
+Meu objetivo é continuar aprendendo, desenvolver minhas habilidades e transformar ideias em projetos.
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12&height=180&section=header&text=%E2%9C%A6%20ONLINE%20%E2%9C%A6&fontSize=28&fontColor=ffffff&animation=fadeIn" width="90%">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-LEARNING-ff69b4?style=for-the-badge&labelColor=0d1117">
+
+<br>
+
+<img src="https://img.shields.io/badge/FOCUS-JAVASCRIPT-ff1493?style=for-the-badge&labelColor=0d1117">
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 💗 CURRENT FOCUS
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🌐
+
+**HTML**
+
+Estruturação de páginas e projetos web.
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚡
+
+**JavaScript**
+
+Lógica, arrays, loops e programação.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+
+**Lógica**
+
+Resolução de problemas e algoritmos.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+**Projetos**
+
+Praticar e construir meu portfólio.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ TECHNOLOGIES & TOOLS
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=html,js&theme=dark">
 
 <br><br>
 
-### TOOLS
-
 <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark">
 
-</div>
+<br><br>
 
----
+<img src="https://img.shields.io/badge/HTML-Studying-ff69b4?style=for-the-badge&logo=html5&logoColor=white">
 
-<div align="center">
-
-## 🧠 `CURRENT LEARNING`
-
-```text
-╭────────────────────────────────────────────────────────╮
-│                  LEARNING PROTOCOL                     │
-├────────────────────────────────────────────────────────┤
-│                                                        │
-│  [██████████████████░░] HTML                           │
-│  [██████████████░░░░░░] JavaScript                     │
-│  [████████████░░░░░░░░] Programming Logic              │
-│  [██████████░░░░░░░░░░] Web Development                │
-│                                                        │
-╰────────────────────────────────────────────────────────╯
-```
+<img src="https://img.shields.io/badge/JavaScript-Studying-ff1493?style=for-the-badge&logo=javascript&logoColor=white">
 
 </div>
 
@@ -126,51 +132,47 @@ const isabela = {
 
 <div align="center">
 
-## 🚀 `PROJECTS`
+## 🚀 MY PROJECTS
 
 <table>
 <tr>
 
 <td width="50%" align="center">
 
-### 🌐 HTML PROJECT
+<img src="https://img.shields.io/badge/PROJECT%2001-ff69b4?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING-FF69B4?style=for-the-badge&labelColor=0D1117">
+### 🌐 Web Project
 
-<br><br>
+Projeto desenvolvido durante meus estudos de desenvolvimento web.
 
-Projeto desenvolvido durante meus estudos para praticar estruturação de páginas utilizando HTML.
+<br>
 
-<br><br>
-
-`HTML`
+**Tecnologia:** HTML
 
 <br><br>
 
 <a href="https://github.com/i-miralhas">
-<img src="https://img.shields.io/badge/VIEW%20GITHUB-FF69B4?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VER%20NO%20GITHUB-ff69b4?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
 
 <td width="50%" align="center">
 
-### ⚡ JAVASCRIPT
+<img src="https://img.shields.io/badge/PROJECT%2002-ff1493?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING-FF1493?style=for-the-badge&labelColor=0D1117">
+### ⚡ JavaScript
 
-<br><br>
+Exercícios e projetos para praticar lógica e fundamentos de JavaScript.
 
-Exercícios e projetos para desenvolver lógica de programação, arrays, loops e fundamentos de JavaScript.
+<br>
 
-<br><br>
-
-`JavaScript`
+**Tecnologia:** JavaScript
 
 <br><br>
 
 <a href="https://github.com/i-miralhas">
-<img src="https://img.shields.io/badge/VIEW%20GITHUB-FF1493?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VER%20NO%20GITHUB-ff1493?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -184,37 +186,40 @@ Exercícios e projetos para desenvolver lógica de programação, arrays, loops 
 
 <div align="center">
 
-## 🎯 `CURRENT MISSION`
+## 🎯 CURRENT GOALS
 
-```console
-╭────────────────────────────────────────────────────────╮
-│                    MISSION CONTROL                     │
-╰────────────────────────────────────────────────────────╯
+<table>
+<tr>
+<td align="center">
 
-$ current_goals
+🌸 **Aprender JavaScript**
 
-[✓] Aprender lógica de programação
-[✓] Praticar HTML
-[→] Evoluir em JavaScript
-[→] Criar novos projetos
-[→] Melhorar minhas habilidades
-[→] Aprender novas tecnologias
-[→] Construir meu portfólio
+</td>
+<td align="center">
 
-$ system_status
+💻 **Criar projetos**
 
-LEARNING_MODE : ACTIVE
-CREATIVE_MODE : ACTIVE
-BUILDING_MODE : ACTIVE
+</td>
+<td align="center">
 
-$ next_step
+🧠 **Melhorar minha lógica**
 
-Keep learning.
-Keep creating.
-Keep evolving.
+</td>
+<td align="center">
 
-_
-```
+🚀 **Construir meu portfólio**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/LEARNING-ACTIVE-ff69b4?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/CREATIVE-ACTIVE-ff1493?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/BUILDING-ACTIVE-c084fc?style=for-the-badge">
 
 </div>
 
@@ -222,7 +227,9 @@ _
 
 <div align="center">
 
-## 📊 `GITHUB ANALYTICS`
+## 📊 GITHUB STATS
+
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=i-miralhas&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF1493&text_color=FFFFFF&rank_icon=github" height="180">
 
@@ -238,7 +245,7 @@ _
 
 <div align="center">
 
-## 📈 `ACTIVITY MONITOR`
+## 📈 ACTIVITY
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=i-miralhas&bg_color=0D1117&color=FF69B4&line=FF1493&point=FFFFFF&area=true&hide_border=true&custom_title=ISABELA%27S%20CODING%20ACTIVITY" width="95%">
 
@@ -248,7 +255,7 @@ _
 
 <div align="center">
 
-## 🏆 `ACHIEVEMENTS`
+## 🏆 GITHUB TROPHIES
 
 <img src="https://github-profile-trophy.vercel.app/?username=i-miralhas&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="95%">
 
@@ -258,9 +265,9 @@ _
 
 <div align="center">
 
-## 🐍 `CONTRIBUTION PROTOCOL`
+## 🐍 CONTRIBUTIONS
 
-<img src="https://raw.githubusercontent.com/i-miralhas/i-miralhas/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake">
+<img src="https://raw.githubusercontent.com/i-miralhas/i-miralhas/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake">
 
 </div>
 
@@ -268,30 +275,28 @@ _
 
 <div align="center">
 
-## 🌐 `NETWORK`
+## 🌐 FIND ME
+
+<br>
 
 <a href="https://github.com/i-miralhas">
-<img src="https://img.shields.io/badge/GITHUB-FF69B4?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-ff69b4?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-FF1493?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="SEU_LINKEDIN_AQUI">
+<img src="https://img.shields.io/badge/LINKEDIN-ff1493?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-C084FC?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:SEU_EMAIL_AQUI">
+<img src="https://img.shields.io/badge/EMAIL-c084fc?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=FF69B4&center=true&vCenter=true&width=650&lines=Every+line+of+code+is+a+step+forward.;Learning+today.+Building+tomorrow.;The+system+is+always+evolving.;%3C%2F%3E+Keep+coding." alt="System Message">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=FF69B4&center=true&vCenter=true&width=650&lines=Learning+today.+Building+tomorrow.;Every+project+is+a+new+challenge.;Keep+learning.+Keep+creating.+%E2%9C%A6" alt="Footer Animation">
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,50:ff69b4,100:c084fc&height=120&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,50:ff69b4,100:c084fc&height=130&section=footer" width="100%">
 
 </div>
-```
-
-Esse é **um único código completo** para você copiar e colar no `README.md` do seu perfil `i-miralhas`. 💗
-
