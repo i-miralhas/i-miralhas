@@ -162,8 +162,7 @@ Projeto desenvolvido durante meus estudos de desenvolvimento web.
 <img src="https://img.shields.io/badge/VER%20NO%20GITHUB-ff69b4?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-</td>
-</td>
+<td/>
 
 </tr>
 </table>
