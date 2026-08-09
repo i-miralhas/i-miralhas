@@ -98,7 +98,6 @@ Resolução de problemas e algoritmos.
 
 **Projetos**
 
-💼 [Meu Currículo](https://i-miralhas.github.io/curriculo/)
 
 </td>
 </tr>
@@ -135,13 +134,6 @@ Resolução de problemas e algoritmos.
 ## 🚀 MY PROJECTS
 
 <table>
-<tr>
-
-<td width="50%" align="center">
-
-<img src="https://img.shields.io/badge/PROJECT%2001-ff69b4?style=for-the-badge">
-
-### 🌐 Web Project
 
 <tr>
 <td width="50%" align="center">
@@ -176,20 +168,6 @@ Projeto desenvolvido durante meus estudos de desenvolvimento web.
 <td width="50%" align="center">
 
 <img src="https://img.shields.io/badge/PROJECT%2002-ff1493?style=for-the-badge">
-
-### ⚡ JavaScript
-
-Exercícios e projetos para praticar lógica e fundamentos de JavaScript.
-
-<br>
-
-**Tecnologia:** JavaScript
-
-<br><br>
-
-<a href="https://github.com/i-miralhas">
-<img src="https://img.shields.io/badge/VER%20NO%20GITHUB-ff1493?style=for-the-badge&logo=github&logoColor=white">
-</a>
 
 </td>
 
