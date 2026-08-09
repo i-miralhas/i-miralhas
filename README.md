@@ -98,7 +98,7 @@ Resolução de problemas e algoritmos.
 
 **Projetos**
 
-Praticar e construir meu portfólio.
+💼 [Meu Currículo](https://i-miralhas.github.io/curriculo/)
 
 </td>
 </tr>
