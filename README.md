@@ -133,7 +133,6 @@ Resolução de problemas e algoritmos.
 
 ## 🚀 MY PROJECTS
 
-<table>
 
 <tr>
 <td width="50%" align="center">
@@ -164,11 +163,6 @@ Projeto desenvolvido durante meus estudos de desenvolvimento web.
 </a>
 
 </td>
-
-<td width="50%" align="center">
-
-<img src="https://img.shields.io/badge/PROJECT%2002-ff1493?style=for-the-badge">
-
 </td>
 
 </tr>
