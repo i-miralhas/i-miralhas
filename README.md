@@ -143,6 +143,22 @@ Resolução de problemas e algoritmos.
 
 ### 🌐 Web Project
 
+<tr>
+<td width="50%" align="center">
+
+### 📄 Meu Currículo
+
+Meu currículo desenvolvido em HTML.
+
+<br><br>
+
+<a href="https://i-miralhas.github.io/curriculo/">
+<img src="https://img.shields.io/badge/VER%20CURRÍCULO-ff69b4?style=for-the-badge">
+</a>
+
+</td>
+</tr>
+
 Projeto desenvolvido durante meus estudos de desenvolvimento web.
 
 <br>
